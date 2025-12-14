@@ -126,7 +126,7 @@ export default function HeroSection() {
           >
             <img
               className="h-14 w-auto drop-shadow-[0_0_12px_rgba(60,100,255,0.4)]"
-              src="/cm1..png"
+              src="/Cm1.png"
               alt="Logo"
             />
           </a>
