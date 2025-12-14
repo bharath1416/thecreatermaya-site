@@ -173,7 +173,7 @@ export default function HeroSection() {
 
             <h1 className="mt-6 tracking-tight">
               <span className="block font-sans text-6xl sm:text-7xl font-semibold text-white drop-shadow-[0_0_20px_rgba(100,120,255,0.25)]">
-                the.Creater
+                the.Creator
               </span>
 
               {/* Gradient “maya” with cursor shine */}
