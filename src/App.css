@@ -1,0 +1,6 @@
+body{
+  overflow-x: hidden;
+  background-color: black;
+  height: 200vh;
+  scroll-behavior: smooth;
+}
