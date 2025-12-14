@@ -1,6 +1,6 @@
 // components/HeroSection.jsx
 import React, { useEffect, useRef, useState } from "react";
-import logo from "../../public/cm1..png";
+
 
 const sources = [
   // Put tiny, looping showreel clips here (8–12s). Smallest first.
@@ -126,7 +126,7 @@ export default function HeroSection() {
           >
             <img
               className="h-14 w-auto drop-shadow-[0_0_12px_rgba(60,100,255,0.4)]"
-              src={logo}
+              src="/cm1..png"
               alt="Logo"
             />
           </a>
