@@ -8,31 +8,31 @@ const reels = [
     src: "/reels/reel1.mp4",
     type: "video/mp4",
     title: "Reel 1",
-    thumbnail: "https://i.pinimg.com/736x/81/65/57/81655744c7c4045d2ffbfeba89a57891.jpg",
+    thumbnail: "/images/reel1.jfif",
   },
   {
     src: "/reels/reel2.mp4",
     type: "video/mp4",
     title: "Reel 2",
-    thumbnail: "https://i.pinimg.com/736x/81/65/57/81655744c7c4045d2ffbfeba89a57891.jpg",
+    thumbnail: "/images/reel2.jfif",
   },
   {
     src: "/reels/reel3.mp4",
     type: "video/mp4",
     title: "Reel 3",
-    thumbnail: "https://i.pinimg.com/736x/81/65/57/81655744c7c4045d2ffbfeba89a57891.jpg",
+    thumbnail: "/images/reel3.jfif",
   },
   {
     src: "/reels/reel4.mp4",
     type: "video/mp4",
     title: "Reel 4",
-    thumbnail: "https://i.pinimg.com/736x/81/65/57/81655744c7c4045d2ffbfeba89a57891.jpg",
+    thumbnail: "/images/reel4.jfif",
   },
   {
     src: "/reels/reel5.mp4",
     type: "video/mp4",
     title: "Reel 5",
-    thumbnail: "https://i.pinimg.com/736x/81/65/57/81655744c7c4045d2ffbfeba89a57891.jpg",
+    thumbnail: "/images/reel5.jfif",
   }
 ];
 

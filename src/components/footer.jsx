@@ -119,11 +119,11 @@ export default function FooterCinematic() {
             </h4>
             <div className="space-y-3 text-sm">
               <a
-                href="mailto:bussiness.bharathvar@gmail.com"
+                href="mailto:business.bharathvarma@gmail.com"
                 className="flex items-center gap-2 text-indigo-100/90 hover:text-white transition"
               >
                 <Mail size={16} />
-                bussiness.bharathvar@gmail.com
+                business.bharathvarma@gmail.com
               </a>
               <a
                 href="https://wa.me/9441619854"

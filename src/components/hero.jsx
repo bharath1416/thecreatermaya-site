@@ -122,13 +122,16 @@ export default function HeroSection() {
         <div className="mx-auto max-w-7xl px-6 sm:px-8 lg:px-12 flex items-center justify-between">
           <a
             href="#"
-            className="inline-flex rounded-md focus:outline-none focus:ring-2 focus:ring-indigo-400 focus:ring-offset-4 focus:ring-offset-[#0b1130]"
+            className="relative inline-flex rounded-md focus:outline-none focus:ring-2 focus:ring-indigo-400 focus:ring-offset-4 focus:ring-offset-[#0b1130]"
           >
-            <img
-              className="h-14 w-auto drop-shadow-[0_0_12px_rgba(60,100,255,0.4)]"
-              src="/Cm1.png"
-              alt="Logo"
-            />
+            <span className="relative inline-flex items-center justify-center rounded-md bg-white/6 p-1.5 md:p-2 lg:p-3 border border-white/10 shadow-[0_8px_22px_rgba(60,100,255,0.16)] backdrop-blur-[4px]">
+              <img
+                className="h-12 md:h-14 lg:h-16 w-auto drop-shadow-[0_0_14px_rgba(60,100,255,0.45)]"
+                src="/Cm1.png"
+                alt="Logo"
+              />
+              <span className="pointer-events-none absolute -top-1 -right-1 h-2 w-2 rounded-full bg-white/80 blur-sm opacity-90 md:-top-1.5 md:-right-1.5" />
+            </span>
           </a>
 
           <nav className="hidden md:flex md:items-center md:space-x-10 lg:ml-28">

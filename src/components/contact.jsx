@@ -21,7 +21,7 @@ const testimonials = [
 export default function TestimonialsContactEpicEqual() {
   const copyEmail = async () => {
     try {
-      await navigator.clipboard.writeText("bussiness.bharathvar@gmail.com");
+      await navigator.clipboard.writeText("business.bharathvarma@gmail.com");
       alert("Email copied!");
     } catch {
       // fallback
@@ -133,7 +133,7 @@ export default function TestimonialsContactEpicEqual() {
             <div className="lg:col-span-3 grid grid-cols-1 sm:grid-cols-3 gap-4">
               {/* Email tile */}
               <a
-                href="mailto:bussiness.bharathvar@gmail.com"
+                href="mailto:business.bharathvarma@gmail.com"
                 className="group relative rounded-2xl border border-white/10 bg-white/10 backdrop-blur-md p-5 hover:bg-white/15 transition"
               >
                 <div className="pointer-events-none absolute inset-0 rounded-2xl p-[1px] [mask:linear-gradient(#000,#000)_content-box,linear-gradient(#000,#000)] [mask-composite:exclude] bg-gradient-to-br from-sky-400/25 via-indigo-400/10 to-transparent" />
@@ -157,7 +157,7 @@ export default function TestimonialsContactEpicEqual() {
                     </button>
                   </div>
                   <div className="text-sm truncate text-indigo-200/90">
-                    bussiness.bharathvar@gmail.com
+                      business.bharathvarma@gmail.com
                   </div>
                   <div className="mt-2 text-[11px] text-indigo-300/80">
                     Expect reply in ~24h
