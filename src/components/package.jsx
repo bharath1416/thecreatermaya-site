@@ -33,6 +33,8 @@ const plans = [
       "Color Correction",
       "Basic Effects",
       "10 Bonus Thumbnails",
+      "Captions",
+      "B-Roll Integration"
     ],
   },
   {
@@ -40,7 +42,7 @@ const plans = [
     emoji: "⭐",
     name: "Pro Reels Package",
     blurb: "Designed for creators aiming for high-quality output.",
-    price: "₹7,999 / month",
+    price: "₹8,999 / month",
     tag: "Best Value",
     featured: true,
     features: [
@@ -50,6 +52,8 @@ const plans = [
       "Professional Color Grading",
       "10 Bonus Thumbnails",
       "Priority Delivery",
+      "Captions",
+      "B-Roll Integration"
     ],
   },
   {
@@ -57,10 +61,11 @@ const plans = [
     emoji: "👑",
     name: "Premium Reels Package",
     blurb: "Maximum performance, speed, and creative support.",
-    price: "₹9,999 / month",
+    price: "₹11,999 / month",
     tag: "Maximum Impact",
     features: [
       "10 Reels / Month (9:16)",
+      "Motion Graphics & 3D Animations",
       "Premium Storytelling Editing",
       "Advanced Effects & SFX",
       "High-Retention Hooks",
@@ -68,6 +73,7 @@ const plans = [
       "Unlimited Revisions",
       "Fastest Delivery",
       "Content Strategy Support",
+      "Captions"
     ],
   },
 ];
